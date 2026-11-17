@@ -1,5 +1,35 @@
 [
   {
+    "datetime": 1794902990,
+    "type": "UNOFFICIAL",
+    "version": "24.0",
+    "files": [
+      {
+        "filename": "lineage-24.0-20261117-UNOFFICIAL-f350.zip",
+        "sha256": "f253d8af7fb9b2eba60ecb334f235a1b6a8bdeb5e72f874aae5578ae36e8dde8",
+        "size": 853920837,
+        "url": "https://github.com/AKAsaliza/f350-ota/releases/download/20261117-0809/lineage-24.0-20261117-UNOFFICIAL-f350.zip",
+        "os_sdk_level": 37,
+        "os_patch_level": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "datetime": 1794704336,
+    "type": "UNOFFICIAL",
+    "version": "24.0",
+    "files": [
+      {
+        "filename": "lineage-24.0-20261115-UNOFFICIAL-f350.zip",
+        "sha256": "0ff2973d8cbb18c470d68e8cda9b8d4c22eaaae1e94481017ee01649899e5584",
+        "size": 853817656,
+        "url": "https://github.com/AKAsaliza/f350-ota/releases/download/20261115-0058/lineage-24.0-20261115-UNOFFICIAL-f350.zip",
+        "os_sdk_level": 37,
+        "os_patch_level": "2026-11-01"
+      }
+    ]
+  },
+  {
     "datetime": 1794563021,
     "type": "UNOFFICIAL",
     "version": "24.0",
